@@ -19,4 +19,4 @@
 - 한편, 모델에서 감성지표를 제외할 경우, 수익률이 큰 폭으로 악화되었으며, 최대낙폭도 증가. 감성지표의 KOSPI 예측 모델의 수익률 기여도가 높음을 확인
 
 # 
-# <a border="0" href="http://tracking.nhqv.com/tracking?SITE_ID=4&amp;SEND_ID=3037338&amp;SCHD_ID=2206703&amp;WORKDAY=20220314&amp;TRACKING_CLOSE=2022-03-07&amp;TYPE=C&amp;CLICK_ID=003&amp;MEMBER_ID=a3lvdWppbi5raW1Abmhxdi5jb20=&amp;MEMBER_ID_SEQ=32612&amp;URL=https://m.nhqv.com/c/g0h0z" target="_blank" title="NH 리서치 원문보기"><img border="0" src="https://www.nhqv.com/img/ems/research/img_09.jpg"></a>
+# <a border="0" href="http://tracking.nhqv.com/tracking?SITE_ID=4&amp;SEND_ID=3037338&amp;SCHD_ID=2206703&amp;WORKDAY=20220314&amp;TRACKING_CLOSE=2022-03-07&amp;TYPE=C&amp;CLICK_ID=003&amp;MEMBER_ID=a3lvdWppbi5raW1Abmhxdi5jb20=&amp;MEMBER_ID_SEQ=32612&amp;URL=https://m.nhqv.com/c/gp3gt" target="_blank" title="NH 리서치 원문보기"><img border="0" src="https://www.nhqv.com/img/ems/research/img_09.jpg"></a>
